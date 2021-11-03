@@ -1,0 +1,9 @@
+h1{color: cyan;}
+img{width: 400px;}
+#thirdDiv { width: 500px; 
+            height: 600px; 
+            background-color: rgb(149, 212, 46);
+            margin: 20px;
+            padding: 50px; 
+            border: 5px solid rgb(31, 149, 218);}
+#spanID {font-size: 25px; margin: 50px;}
